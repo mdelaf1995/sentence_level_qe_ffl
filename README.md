@@ -37,6 +37,6 @@ The repository contains two notebooks:
 
 * feature_engineering_pipeline.ipynb which contains all the feature_engineering_pipeline which leads to the creation of a pickle dataset_with_features.pickle. This notebook takes approximately 30 minutes to run
 so the dataset created has been stored and is available to test the models in the other notebook.
-* model_testing.ipynb which permits to run models we have tried and used to compute our best performance. The end of the notebook can be run to get a model prediction to be tested on Codalab
+* model_testing.ipynb which permits to run models we have tried and used to compute our best performance. The end of the notebook can be run to get a model prediction to be tested on Codalab.
 
-All the data necessary to run the notebooks has also been added in the folder /data
+All the data necessary to run the notebooks has also been added in the folder /data.
