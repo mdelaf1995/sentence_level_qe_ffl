@@ -49,3 +49,9 @@ so the dataset created has been stored and is available to test the models in th
 * model_testing.ipynb which permits to run models we have tried and used to compute our best performance. The end of the notebook can be run to get a model prediction to be tested on Codalab.
 
 All the data necessary to run the notebooks has also been added in the folder /data.
+
+## Codalab competition results
+
+You can find in the predictions which made our best Pearson Correlation on the Codalab test set (0.1403).
+You can obtain them by simply running the beggining of the model_testing notebook and just the last
+few cells to write the prediction using the PLS regression with the hardcoded best parameters.
