@@ -36,7 +36,7 @@ venv/bin/jupyter notebook
 The final step is to download the MUSE embeddings German and English vectors (which are so heavy it
   is impossible to git them) and put them in a folder called 'muse/' in 'data/'. They corresponds word embeddings aligned in the same vector space.
 
-  English: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.en.vec
+  English: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.en.vec <br/>
   German: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
 
 If the link is broken, they probably still can be found in the MUSE Github, in the section "Multilingual word Embeddings": https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
