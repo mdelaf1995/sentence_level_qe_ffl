@@ -52,6 +52,6 @@ All the data necessary to run the notebooks has also been added in the folder /d
 
 ## Codalab competition results
 
-You can find in the predictions which made our best Pearson Correlation on the Codalab test set (0.1403).
-You can obtain them by simply running the beggining of the model_testing notebook and just the last
+You can find in the folder '/predictions' the predictions which made our best Pearson correlation score on the Codalab test set (0.1403).
+You can also recreate them by simply running the beginning of the model_testing notebook and just the last
 few cells to write the prediction using the PLS regression with the hardcoded best parameters.
