@@ -39,7 +39,7 @@ The final step is to download the MUSE embeddings German and English vectors (wh
   English: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.en.vec <br/>
   German: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
 
-If the link is broken, they probably still can be found in the MUSE Github, in the section "Multilingual word Embeddings": https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
+If the link is broken, they probably still can be found in the MUSE Github, in the section "Multilingual word Embeddings": https://github.com/facebookresearch/MUSE
 ## How to use the repository
 
 The repository contains two notebooks:
