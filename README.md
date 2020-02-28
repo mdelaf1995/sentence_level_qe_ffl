@@ -33,6 +33,15 @@ Open a jupyter notebook from your venv:
 venv/bin/jupyter notebook
 ```
 
+The final step is to download the MUSE embeddings German and English vectors (which are so heavy it
+  is impossible to git them) and put them in a folder called 'muse/' in 'data/'. They corresponds word embeddings aligned in the same vector space.
+
+  English: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.en.vec
+  German: https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
+
+If the link is broken, they probably still can be found in the MUSE Github, in the section "Multilingual word Embeddings": https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.de.vec
+## How to use the repository
+
 The repository contains two notebooks:
 
 * feature_engineering_pipeline.ipynb which contains all the feature_engineering_pipeline which leads to the creation of a pickle dataset_with_features.pickle. This notebook takes approximately 30 minutes to run
